@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">Prapade</string>
+    <string name="app_name" templateMergeStrategy="preserve" translatable="false">PrapaDe</string>
 </resources>

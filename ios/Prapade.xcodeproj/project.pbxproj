@@ -15,6 +15,22 @@
 		7699B88040F8A987B510C191 /* libPods-Prapade-PrapadeTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Prapade-PrapadeTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		E8702848E33DD13C0EDDD02E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E2C17C962E13A4E2CFB14B7E /* PrivacyInfo.xcprivacy */; };
+		5E99C8D20EE2458887F07CDD /* Prompt-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81375CE64B1745D086763EB2 /* Prompt-Bold.ttf */; };
+		0B0A2675602043C69ECA338B /* Prompt-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E6E42C8FEEB4AAF9A72BFD5 /* Prompt-BoldItalic.ttf */; };
+		1C763EE8A42E48D2BDA9E90B /* Prompt-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB43ECF883F445228165F009 /* Prompt-ExtraBold.ttf */; };
+		44215013178E4B24B26668BD /* Prompt-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA387A12442B4B37BD67FCAD /* Prompt-ExtraBoldItalic.ttf */; };
+		D90604DCA9E042FFACEFD5BC /* Prompt-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3709DF5669B945DF8E76E19D /* Prompt-ExtraLight.ttf */; };
+		C4067FB07F0045349322FB8C /* Prompt-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ACF8F825C668427C9ACB2EB9 /* Prompt-ExtraLightItalic.ttf */; };
+		29F061E9E9BE482EBAF87379 /* Prompt-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA18D52916B94CB3B955D5B1 /* Prompt-Italic.ttf */; };
+		1FE9E12FE7864B0DA05A68CE /* Prompt-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4BE97B044D544C7D9C123DE0 /* Prompt-Light.ttf */; };
+		2DB6B5101A1542449051B4BB /* Prompt-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4890A6E8544547E7B35A3FAC /* Prompt-LightItalic.ttf */; };
+		48E0A0F6086E4C7B80F99602 /* Prompt-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18EB47235E6B42E6B5754F5E /* Prompt-Medium.ttf */; };
+		84A01E78CE3A41F88EFAD947 /* Prompt-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 609138B15F6C4E04B6B59B5C /* Prompt-MediumItalic.ttf */; };
+		C75295BB16A4466CAD1F6D02 /* Prompt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F432B7FEC07C480CB6FD59D7 /* Prompt-Regular.ttf */; };
+		4D7D233FAE964F5798F0E250 /* Prompt-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA58B332DA8E41028B3D7F6F /* Prompt-SemiBold.ttf */; };
+		9E6F0655F6B84F95A0E00FB8 /* Prompt-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B130A643AD704DA3B018F570 /* Prompt-SemiBoldItalic.ttf */; };
+		A7169796F0AA4EE6B6DD5944 /* Prompt-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16CA53DADE6649EDBA267EBB /* Prompt-Thin.ttf */; };
+		9ED952E8AD03409F92FCBF77 /* Prompt-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E0FAB24F47E42D18D323282 /* Prompt-ThinItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		89C6BE57DB24E9ADA2F236DE /* Pods-Prapade-PrapadeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Prapade-PrapadeTests.release.xcconfig"; path = "Target Support Files/Pods-Prapade-PrapadeTests/Pods-Prapade-PrapadeTests.release.xcconfig"; sourceTree = "<group>"; };
 		E2C17C962E13A4E2CFB14B7E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = Prapade/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		81375CE64B1745D086763EB2 /* Prompt-Bold.ttf */ = {isa = PBXFileReference; name = "Prompt-Bold.ttf"; path = "../src/assets/fonts/Prompt-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E6E42C8FEEB4AAF9A72BFD5 /* Prompt-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-BoldItalic.ttf"; path = "../src/assets/fonts/Prompt-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CB43ECF883F445228165F009 /* Prompt-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Prompt-ExtraBold.ttf"; path = "../src/assets/fonts/Prompt-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA387A12442B4B37BD67FCAD /* Prompt-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Prompt-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3709DF5669B945DF8E76E19D /* Prompt-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Prompt-ExtraLight.ttf"; path = "../src/assets/fonts/Prompt-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ACF8F825C668427C9ACB2EB9 /* Prompt-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-ExtraLightItalic.ttf"; path = "../src/assets/fonts/Prompt-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA18D52916B94CB3B955D5B1 /* Prompt-Italic.ttf */ = {isa = PBXFileReference; name = "Prompt-Italic.ttf"; path = "../src/assets/fonts/Prompt-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4BE97B044D544C7D9C123DE0 /* Prompt-Light.ttf */ = {isa = PBXFileReference; name = "Prompt-Light.ttf"; path = "../src/assets/fonts/Prompt-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4890A6E8544547E7B35A3FAC /* Prompt-LightItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-LightItalic.ttf"; path = "../src/assets/fonts/Prompt-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		18EB47235E6B42E6B5754F5E /* Prompt-Medium.ttf */ = {isa = PBXFileReference; name = "Prompt-Medium.ttf"; path = "../src/assets/fonts/Prompt-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		609138B15F6C4E04B6B59B5C /* Prompt-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-MediumItalic.ttf"; path = "../src/assets/fonts/Prompt-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F432B7FEC07C480CB6FD59D7 /* Prompt-Regular.ttf */ = {isa = PBXFileReference; name = "Prompt-Regular.ttf"; path = "../src/assets/fonts/Prompt-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AA58B332DA8E41028B3D7F6F /* Prompt-SemiBold.ttf */ = {isa = PBXFileReference; name = "Prompt-SemiBold.ttf"; path = "../src/assets/fonts/Prompt-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B130A643AD704DA3B018F570 /* Prompt-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Prompt-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		16CA53DADE6649EDBA267EBB /* Prompt-Thin.ttf */ = {isa = PBXFileReference; name = "Prompt-Thin.ttf"; path = "../src/assets/fonts/Prompt-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2E0FAB24F47E42D18D323282 /* Prompt-ThinItalic.ttf */ = {isa = PBXFileReference; name = "Prompt-ThinItalic.ttf"; path = "../src/assets/fonts/Prompt-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +159,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				C908D5DD605B4E5AB54E2994 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -152,6 +185,30 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		C908D5DD605B4E5AB54E2994 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				81375CE64B1745D086763EB2 /* Prompt-Bold.ttf */,
+				8E6E42C8FEEB4AAF9A72BFD5 /* Prompt-BoldItalic.ttf */,
+				CB43ECF883F445228165F009 /* Prompt-ExtraBold.ttf */,
+				EA387A12442B4B37BD67FCAD /* Prompt-ExtraBoldItalic.ttf */,
+				3709DF5669B945DF8E76E19D /* Prompt-ExtraLight.ttf */,
+				ACF8F825C668427C9ACB2EB9 /* Prompt-ExtraLightItalic.ttf */,
+				BA18D52916B94CB3B955D5B1 /* Prompt-Italic.ttf */,
+				4BE97B044D544C7D9C123DE0 /* Prompt-Light.ttf */,
+				4890A6E8544547E7B35A3FAC /* Prompt-LightItalic.ttf */,
+				18EB47235E6B42E6B5754F5E /* Prompt-Medium.ttf */,
+				609138B15F6C4E04B6B59B5C /* Prompt-MediumItalic.ttf */,
+				F432B7FEC07C480CB6FD59D7 /* Prompt-Regular.ttf */,
+				AA58B332DA8E41028B3D7F6F /* Prompt-SemiBold.ttf */,
+				B130A643AD704DA3B018F570 /* Prompt-SemiBoldItalic.ttf */,
+				16CA53DADE6649EDBA267EBB /* Prompt-Thin.ttf */,
+				2E0FAB24F47E42D18D323282 /* Prompt-ThinItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -249,6 +306,22 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				E8702848E33DD13C0EDDD02E /* PrivacyInfo.xcprivacy in Resources */,
+				5E99C8D20EE2458887F07CDD /* Prompt-Bold.ttf in Resources */,
+				0B0A2675602043C69ECA338B /* Prompt-BoldItalic.ttf in Resources */,
+				1C763EE8A42E48D2BDA9E90B /* Prompt-ExtraBold.ttf in Resources */,
+				44215013178E4B24B26668BD /* Prompt-ExtraBoldItalic.ttf in Resources */,
+				D90604DCA9E042FFACEFD5BC /* Prompt-ExtraLight.ttf in Resources */,
+				C4067FB07F0045349322FB8C /* Prompt-ExtraLightItalic.ttf in Resources */,
+				29F061E9E9BE482EBAF87379 /* Prompt-Italic.ttf in Resources */,
+				1FE9E12FE7864B0DA05A68CE /* Prompt-Light.ttf in Resources */,
+				2DB6B5101A1542449051B4BB /* Prompt-LightItalic.ttf in Resources */,
+				48E0A0F6086E4C7B80F99602 /* Prompt-Medium.ttf in Resources */,
+				84A01E78CE3A41F88EFAD947 /* Prompt-MediumItalic.ttf in Resources */,
+				C75295BB16A4466CAD1F6D02 /* Prompt-Regular.ttf in Resources */,
+				4D7D233FAE964F5798F0E250 /* Prompt-SemiBold.ttf in Resources */,
+				9E6F0655F6B84F95A0E00FB8 /* Prompt-SemiBoldItalic.ttf in Resources */,
+				A7169796F0AA4EE6B6DD5944 /* Prompt-Thin.ttf in Resources */,
+				9ED952E8AD03409F92FCBF77 /* Prompt-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
